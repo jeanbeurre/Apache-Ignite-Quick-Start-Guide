@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="boot-datagrid" target="1.8" />
+      <module name="boot-datagrid.main" target="1.8" />
+      <module name="boot-datagrid.test" target="1.8" />
+      <module name="Chapter02.hello-world" target="1.8" />
+      <module name="Chapter02.hello-world.main" target="1.8" />
+      <module name="Chapter02.hello-world.test" target="1.8" />
+      <module name="Chapter03.hello-world" target="1.8" />
+      <module name="Chapter03.hello-world.main" target="1.8" />
+      <module name="Chapter03.hello-world.test" target="1.8" />
+      <module name="Chapter06.service-grid" target="1.8" />
+      <module name="Chapter06.service-grid.main" target="1.8" />
+      <module name="Chapter06.service-grid.test" target="1.8" />
+      <module name="compute-grid" target="1.8" />
+      <module name="compute-grid.main" target="1.8" />
+      <module name="compute-grid.test" target="1.8" />
+      <module name="deploy" target="1.8" />
+      <module name="deploy.main" target="1.8" />
+      <module name="deploy.test" target="1.8" />
+      <module name="hello-world" target="1.8" />
+      <module name="hello-world.main" target="1.8" />
+      <module name="hello-world.test" target="1.8" />
+      <module name="service-grid" target="1.8" />
+      <module name="service-grid.main" target="1.8" />
+      <module name="service-grid.test" target="1.8" />
+      <module name="session-clustering" target="1.8" />
+      <module name="session-clustering.main" target="1.8" />
+      <module name="session-clustering.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
